@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="post">Post Name</string>
+    <string name="created_at">Created At</string>
+    <string name="no_result_found">No Result Found</string>
+    <string name="str_no_internet_avilable">No Internet Avilable</string>
+    <string name="check_connection">Check Connection</string>
+    <string name="settings">Setting</string>
+</resources>
